@@ -18,7 +18,7 @@ env:
   
   # comma-separated list of sources (books, adventures, ...) - leave empty for SRD only
   # For list, see https://github.com/ebullient/json5e-convert-cli/blob/main/src/main/java/dev/ebullient/json5e/tools5e/CompendiumSources.java
-  SOURCES: ""
+  SOURCES: "PHB, DMG, MM, BGDIA, WDH, AL, TOA"
 
 jobs:
   jbang:
